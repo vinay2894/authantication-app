@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "391945895831",
+    "project_id": "authamtication-app",
+    "storage_bucket": "authamtication-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391945895831:android:21276b63b2a5381ce00ed2",
+        "android_client_info": {
+          "package_name": "com.example.viva_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCf07doJDTDBmWLWGkI22c75AijH-dCpw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
